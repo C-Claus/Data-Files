@@ -1,4 +1,5 @@
-#QR CODE GENERATOR FOR IFC
+# QR CODE GENERATOR FOR IFC
+
 The main advantage of using QR codes is the offline and online connection. The QR codes can be placed on the actual physical location. The online data can be updated and connected to material take-offs, planning, delivery schedules etc. The people on the construction site always have the latest up-to-date information.
 
 
